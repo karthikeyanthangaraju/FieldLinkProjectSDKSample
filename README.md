@@ -15,4 +15,5 @@ Note:  Please share the Artifcatory ID to bobby_tait@trimble.com or karthikeyan_
 2. Please make sure that you are connected through vpn-client when adding/restoring the packages.
 
 Packages need to be installed 
-![Uploading image.png…]()
+![image](https://github.com/karthikeyanthangaraju/FieldLinkProjectSDKSample/assets/126872854/23b4b8ff-0577-4f33-b937-5aa57543d277)
+
