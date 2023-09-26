@@ -11,3 +11,4 @@ a. Run the following commands to add Artifacts to the existing list of NuGet sou
    2. NuGet setapikey <USERNAME>:<APIKEY> -Source Artifactory
    3. You can get the APIKEY from your profile page
 b. After this setup you will be access and add package through the Nuget Package Manager screen
+![image](https://github.com/karthikeyanthangaraju/FieldLinkProjectSDKSample/assets/126872854/bd014021-5c16-4d25-b462-ebf82ae8e127)
