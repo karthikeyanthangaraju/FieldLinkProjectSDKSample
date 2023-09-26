@@ -1,0 +1,104 @@
+# --- git ignore folders ---
+
+.cxxresults/
+.vs/
+Output/
+packages/
+FieldLink/tim/uploads/files/
+Build/BCIM Packages/*/MD5s/
+Build/BCIM Packages/Microsoft_NET_Framework_4.7.2_Uploads/Desktop/
+Build/BCIM Packages/User_Guide_Uploads/Desktop
+Debug*/
+Debug/
+InstallerSourceFiles/
+ipch/
+obj/
+Release*/
+Release/
+Sqlite/
+Tests/Data/
+
+# --- git ignore files ---
+
+FieldLink Install.exe
+ReleasePdbs.zip
+Setup Files/TrimbleAT360/TFLAT360API.dll
+
+# --- git ignore file types ---
+
+# Compiled Object files
+*.lo
+*.o
+*.obj
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+#*.dll
+*.dylib
+*.so
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.a
+*.la
+*.lai
+#*.lib
+
+# Executables
+*.app
+#*.exe
+*.out
+
+# Managed
+*.baml
+*.g.cs
+*.g.i.cs
+*.g.resources
+
+# Debug
+*.cache
+*.lref
+*.pdb
+*.resources
+
+# Environment
+*.exp
+*.ilk
+*.opensdf
+*.sdf
+*.suo
+
+# Obfuscation
+*.lastbuildstate
+*.log
+*.tlog
+
+# Unit test results
+*.trx
+
+# More Visual Studio file types
+*.bak
+*.bsc
+*.lastcodeanalysissucceeded
+*.user
+*.VC.db
+*.VC.opendb
+UpgradeLog*.htm
+
+# Build
+!Build/x64/NSISPlugins/*.dll
+\!buildStatus_*
+GoogleDriveFolderForBuild*.txt
+Build/x64/ObfuscatedFiles/
+Build/x64/UnobfuscatedFiles/
+Build/x64/UnobfuscatedFiles.zip
+FieldLink.Configurator/FodyWeavers.xml
+FieldLink.Configurator/FodyWeavers.xsd
+
+FieldLink/installer/SourceFiles/
