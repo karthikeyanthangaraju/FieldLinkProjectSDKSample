@@ -1,5 +1,3 @@
-INTRODUCTION
-	This document focuses on the description of interfaces and classes that are exposed to the client application for using the Trimble FieldLink Project API and TFLX job library.
 
 Steps to install the NuGet package (Internal to Trimble Development Teams)
 
